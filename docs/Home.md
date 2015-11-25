@@ -12,3 +12,5 @@ _code text here_
 ```
 
 ![enter link description here](/assets/haskell-mordor.jpg)
+
+![enter image description here](/assets/feature-expedition.jpg "enter image title here")
