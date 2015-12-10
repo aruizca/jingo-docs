@@ -1,7 +1,7 @@
 [Development]()
 
   * # Guidelines
-  * [Code Style & Reviews](codeReviews.md)
+  * [Code Style & Reviews](Home.md)
   * [Groovy & Grails](wiki/development/groovy&grails-guidelines.md)
   - - - -
   * # Language-specific Tips & Tricks
